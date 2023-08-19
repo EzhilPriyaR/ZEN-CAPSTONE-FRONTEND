@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.card-config {
+	max-height : 400px;
+}
+
+.chart-box {
+	max-height : 300px;
+	height: 300px;
+}
+
+li {
+	cursor: pointer;
+}
